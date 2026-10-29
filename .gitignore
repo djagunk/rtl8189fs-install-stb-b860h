@@ -1,0 +1,27 @@
+# Build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
+.tmp_versions/
+*.cmd
+.*.cmd
+
+# Compiled files
+modpost
+Module.symvers
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
+.vscode/
+.idea/
